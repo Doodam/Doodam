@@ -2,13 +2,13 @@
 
 <br>
 
-<div align=center><h2>🐥 Follow Me </h2></div>
+<div align=center><h2>🐥 Follow Me 🐥</h2></div>
 <div align=center>
 <a href="https://ddodam.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ddodam.tistory.com"/></a>
 <a href="mailto:dlwodms312@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwodms312@gmail.com"/></a>
 </div>
 
-<br>
+<br><br>
 
 <div align=center><h2>✨ Tech Stacks ✨</h2></div>
 <div align=center> 
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
 
-<br>
+<br><br>
 
 ![Doodam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doodam&show_icons=true&theme=tokyonight)
 
