@@ -43,6 +43,7 @@
 
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doodam&layout=compact"><br><br>
 ![Doodam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doodam&show_icons=true&theme=tokyonight)
 
 </div>
