@@ -41,7 +41,8 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
 
+<br>
 
-
+![Doodam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doodam&show_icons=true&theme=tokyonight)
 
 </div>
